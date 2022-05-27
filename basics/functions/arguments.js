@@ -31,4 +31,21 @@ let response = bill(40, 0.25)
 console.log('The tipPercent is: ' + response)*/
 
 
+/*let age = function (oYear, nYear) {
+
+  let result = nYear - oYear
+  if (result < 36) {
+    return `you are so young!`
+
+  } else {
+    return result
+  }
+}
+
+let test = age(1987, 2055)
+console.log(test)*/
+
+
+
+
 
